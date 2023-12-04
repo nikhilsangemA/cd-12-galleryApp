@@ -1,0 +1,16 @@
+.smallImg {
+  height: 50px;
+  width: 80px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.btnSize {
+  border: none;
+}
+.listOf {
+  list-style-type: none;
+  margin-right: 7px;
+}
+.transparentColor {
+  opacity: 1;
+}
